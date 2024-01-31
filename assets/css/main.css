@@ -5,9 +5,11 @@
 }
 
 body{
-  background-color: #d9dbdc;
+  background-color: #F6F8F9;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* HEADER */
 
 header{
   background-color: white;
@@ -24,3 +26,35 @@ header img{
   vertical-align: middle;
 }
 
+/* MAIN */
+
+.container-main{
+  background-color: white;
+  width: 1000px;
+  margin: 45px auto;
+  border-radius: 5px;
+  padding: 15px 45px;
+}
+
+.container-main nav{
+  border-bottom: 3px solid #d9dbdc;
+  padding-top: 12px;
+  padding-bottom: 10px;
+}
+
+.btn-blue{
+  background-color: #48ADF1;
+  color: white;
+  border: 1px solid #48ADF1;
+}
+
+.btn-white{
+  background-color: white;
+  color: lightgrey;
+  border: 1px solid lightgrey;
+}
+
+.btn{
+  border-radius: 5px;
+  padding: 8px;
+}
