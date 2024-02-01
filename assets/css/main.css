@@ -73,8 +73,7 @@ h3{
   margin-right: 5px;
 }
 
-.badge.editorial{
-  background-color: #48ADF1;
+.badge.editorial,.goals,.recruiting,.mobile,.website,.sales{
   color: white;
   padding: 5px 10px;
   margin-left: 5px;
@@ -83,8 +82,34 @@ h3{
   font-size: 10px;
 }
 
+.badge.editorial{
+  background-color: #48ADF1;
+}
+
+.badge.goals{
+  background-color: #9C72E4;
+}
+
+.badge.recruiting{
+  background-color: #64C0A9;
+}
+
+.badge.mobile{
+  background-color: #F29E33;
+}
+
+.badge.website{
+  background-color: #D763A1;
+}
+
+.badge.sales{
+  background-color: #B0C925;
+}
+
 li{
   margin-bottom: 15px;
 }
+
+
 
 
