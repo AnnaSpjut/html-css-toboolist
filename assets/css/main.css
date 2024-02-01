@@ -37,9 +37,18 @@ header img{
 }
 
 .container-main nav{
-  border-bottom: 3px solid #d9dbdc;
+  border-bottom: 2px solid #d9dbdc;
   padding-top: 12px;
   padding-bottom: 10px;
+}
+
+ul{
+  list-style: none;
+}
+
+h3{
+  padding-top: 30px;
+  padding-bottom: 15px;
 }
 
 .btn-blue{
@@ -58,3 +67,24 @@ header img{
   border-radius: 5px;
   padding: 8px;
 }
+
+.fa-circle-check{
+  color: green;
+  margin-right: 5px;
+}
+
+.badge.editorial{
+  background-color: #48ADF1;
+  color: white;
+  padding: 5px 10px;
+  margin-left: 5px;
+  border-radius: 12px;
+  border: none;
+  font-size: 10px;
+}
+
+li{
+  margin-bottom: 15px;
+}
+
+
